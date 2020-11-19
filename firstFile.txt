@@ -3,3 +3,4 @@ This is the initial contents
 of the first file that
 comprises the project.
 User A added content here
+User A added more content here
